@@ -60,7 +60,7 @@ sequenceDiagram
     browser->>server: GEThttps://studies.cs.helsinki.fi/exampleapp/main.css
     activate server
     server-->>browser: the CSS file
-    deactivate server
+    deactivate server 
 
 
 
